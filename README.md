@@ -8,3 +8,5 @@ GitHub的一些使用方法
 2. 在终端输入 git clone https://github.com/muhenan/Unity3D_muhenan.git
 3. 克隆成功
 
+然后是一些 git 常用的命令：
+
