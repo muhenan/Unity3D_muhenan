@@ -28,4 +28,4 @@
 
 首先来到 unity Asset Store 的网站 https://assetstore.unity.com/ ，下载游戏案例
 
-![image-20200921180140803](D:\TyporaNoteBook\img\image-20200921180140803.png)
+![image-20200921180140803](.\image-20200921180140803.png)
